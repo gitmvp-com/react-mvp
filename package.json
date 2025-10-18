@@ -1,0 +1,26 @@
+{
+  "name": "react-mvp",
+  "version": "1.0.0",
+  "description": "A minimal MVP implementation of React's core features: component-based rendering and state management",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "mvp",
+    "virtual-dom",
+    "component",
+    "state-management"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
